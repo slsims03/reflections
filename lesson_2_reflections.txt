@@ -12,8 +12,8 @@ organized? Adding a new feature, trying an experiment but wanting to keep a work
 
 How do the diagrams help you visualize the branch structure? Diagrams make it easy to keep track of all the different branches and commits off of the master branch. 
 
-What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
+What is the result of merging two branches together? The result is the merge combines the changes from the branch to the master branch. Why do we represent it in
+the diagram the way we do? Because when master merges with a branch, the tip of the master branch becomes the new starting point.
 
 What are the pros and cons of Git⿿s automatic merging vs. always doing merges
 manually?
