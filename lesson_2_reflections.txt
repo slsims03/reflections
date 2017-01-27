@@ -16,4 +16,4 @@ What is the result of merging two branches together? The result is the merge com
 the diagram the way we do? Because when master merges with a branch, the tip of the master branch becomes the new starting point.
 
 What are the pros and cons of Git⿿s automatic merging vs. always doing merges
-manually?
+manually? Manually merging catches errors that would otherwise cause the code to fail. Automatic merging may not catch them or identify you to the problem.
