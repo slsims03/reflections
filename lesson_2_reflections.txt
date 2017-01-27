@@ -8,7 +8,7 @@ change?
 You can use it to add a change while you continue to work. Commit the stage file, and continue working on the main file.
 
 What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+organized? Adding a new feature, trying an experiment bu twanting to keep a working copy accessible. How would branches help? Branches seperate from the master branch that you can continue to make new changes and features withouth disrupting the working copy.
 
 How do the diagrams help you visualize the branch structure?
 
